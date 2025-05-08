@@ -1,0 +1,1 @@
+To activate your environment - venv\Scripts\activate
